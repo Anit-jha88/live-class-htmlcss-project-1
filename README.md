@@ -10,7 +10,7 @@
 ## Description
 
 A simple street style landing page created using
-`HTML` and `CSS`. This project is hosted on both `Netlify` 
+`HTML` and `CSS`. This project is hosted on  `Netlify` 
 
 **Created By :** Anit Kumar jha
 
@@ -23,4 +23,4 @@ A simple street style landing page created using
 - How to position images in a web page
 - How to create `buttons`
 
-### [**Live link**](https://live-class-assignment-project-1.netlify.app//)
+### [**Live link**](https://live-class-assignment-project-1.netlify.app/)
